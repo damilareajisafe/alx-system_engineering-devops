@@ -1,1 +1,1 @@
-cat /etc/passwd
+less /etc/passwd
